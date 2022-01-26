@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://Ian993.github.io/Alex-Jia/index.html"><img src="https://github.com/Ian993/Alex-Jia/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="AJ"></a>
+  <a href="https://Ian993.github.io/Alex-Jia/index.html"><img src="https://github.com/Ian993/Alex-Jia/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="AJ"></a>
 </p>
 <div align="center">
 
